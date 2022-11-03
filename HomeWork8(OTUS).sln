@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork8(OTUS)", "HomeWork8(OTUS)\HomeWork8(OTUS).csproj", "{68B0EC41-7D61-4791-8574-6CE8FFB64320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork8(OTUS)-2", "HomeWork8(OTUS)-2\HomeWork8(OTUS)-2.csproj", "{7681DDBD-6FCB-410D-BDDA-5619B4672236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B0EC41-7D61-4791-8574-6CE8FFB64320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B0EC41-7D61-4791-8574-6CE8FFB64320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B0EC41-7D61-4791-8574-6CE8FFB64320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B0EC41-7D61-4791-8574-6CE8FFB64320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7681DDBD-6FCB-410D-BDDA-5619B4672236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7681DDBD-6FCB-410D-BDDA-5619B4672236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7681DDBD-6FCB-410D-BDDA-5619B4672236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7681DDBD-6FCB-410D-BDDA-5619B4672236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91A41D7-CFA6-455B-856D-22296DA525A8}
+	EndGlobalSection
+EndGlobal
